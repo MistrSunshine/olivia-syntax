@@ -140,8 +140,14 @@ atom-text-editor, :host {
   color: @pale-pink !important;
 }
 
-.meta.tag {
-  color: @syntax-text-color;
+.meta {
+  &.tag {
+    color: @syntax-text-color;
+  }
+
+  &.function-call {
+    color: @yellow;
+  }
 }
 
 .storage {
