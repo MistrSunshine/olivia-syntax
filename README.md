@@ -2,4 +2,4 @@
 
 A colorful and fun syntax theme for Atom.
 
-![A screenshot of Olivia](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of Olivia](https://raw.githubusercontent.com/MistrSunshine/olivia-syntax/master/example/olivia-syntax.png)
